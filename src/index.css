@@ -1,6 +1,6 @@
 body {
     margin: 0;
-    background: linear-gradient(papayawhip, white);
+    background-image:url("https://www.survivingwithandroid.com/wp-content/uploads/2014/11/android_weather_app.jpg");
     display: flex;
     justify-content: center;
     align-items: center;
